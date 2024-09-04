@@ -5,7 +5,7 @@
 
 ## IMPORTANT !!!
 
-Try to work on one challenge at a time and observe my solution.
+Try to work on one challenge at a time and observe the solution.
 This approach will make it easier later to identify any potential bugs.
 
 ## Challenge (1) - Setup
