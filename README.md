@@ -1040,7 +1040,7 @@ const About = () => {
         <div className='stats bg-primary shadow'>
           <div className='stat'>
             <div className='stat-title text-primary-content text-4xl font-bold tracking-widest'>
-              comfy
+              React Store
             </div>
           </div>
         </div>
