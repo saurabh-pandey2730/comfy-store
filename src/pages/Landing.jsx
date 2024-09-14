@@ -1,9 +1,11 @@
 import React from 'react'
+import Hero from '../components/Hero'
 
 function Landing() {
   return (
     <div>
-       <h1>landing</h1>
+       
+       <Hero/>
     </div>
   )
 }
